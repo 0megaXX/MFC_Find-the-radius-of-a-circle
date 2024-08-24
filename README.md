@@ -1,4 +1,4 @@
-(주)그림의 신입사원 과제입니다.
+원을 무작위로 생성하고 원의 그림을 불러와 반지름을 구하는 프로젝트입니다.
 
 ![image](https://github.com/user-attachments/assets/f2e54cb3-1188-4bd2-97af-1dd0c56fa505)
 
