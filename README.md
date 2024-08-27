@@ -6,6 +6,9 @@
 
 ![image](https://github.com/user-attachments/assets/fcd686c0-6cf3-44c4-963e-8f96823711c5)
 
+
+![image](https://github.com/user-attachments/assets/d5cad87b-89ec-4532-a5e1-091c68fbe912)
+
 우측 상단의 File_Load 를 클릭시 탐색기를 열어 bmp형식의 파일을 로드하게 해 줍니다. 이미지 로드시 이미지에서 원을 찾아 원의 중점을 구하고 중점의 x,y좌표와 원의 반지름을 버튼 밑에 출력하고 이미지에 반지름을 명시적으로 보여줍니다.
 
 ![image](https://github.com/user-attachments/assets/e1f33a02-47e3-4f71-9371-908642c5dd96)
